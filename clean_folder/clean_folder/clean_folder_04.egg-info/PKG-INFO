@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: clean-folder-04
+Version: 1
+Summary: Clean you'r PC
+Home-page: https://github.com/Chypas/Projects/tree/main/home_work_6
+Author: Ovcharenko_04
+Author-email: Ovcharenko_04@example.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
