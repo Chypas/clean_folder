@@ -1,2 +1,0 @@
-[console_script]
-clean = clean_folder.clean:run
