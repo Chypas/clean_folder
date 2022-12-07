@@ -4,7 +4,7 @@ setup(
     name = "clean_folder",
     version = "0.0.5",
     description = "Clean you'r PC",
-    url = "https://github.com/Chypas/Projects/tree/main/home_work_6",
+    url = "https://github.com/Chypas/clean_folder",
     author = "Ovcharenko_04",
     author_email = "Ovcharenko_04@example.com",
     license = "MIT",
