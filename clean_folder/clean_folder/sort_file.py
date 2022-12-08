@@ -1,10 +1,9 @@
 import os
-import sys
 import shutil
 from pathlib import Path
-from normalize_file import normalize
+from .normalize_file import normalize
 
-path_folder = Path(sys.argv[1])
+# path_folder = Path(sys.argv[1])
 count = 0
 name_folders = {
     "images": (".jpeg", ".jpg", ".png", ".svg"),

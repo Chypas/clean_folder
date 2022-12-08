@@ -1,4 +1,4 @@
-from sort_file import sort_files
+from .sort_file import sort_files
 
 def sort_folders(path_folder):
     list_path_subfolder = list(path_folder.iterdir())
